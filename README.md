@@ -1,6 +1,6 @@
 # 📊 Avaliação de Impacto da Reforma Trabalhista Brasileira de 2017
 
-Este repositório contém os **dados**, **códigos** e **resultados empíricos** utilizados na monografia que analisa o impacto da **Reforma Trabalhista brasileira de 2017** sobre a evolução da **informalidade no mercado de trabalho**.
+Este repositório contém os **dados** e **resultados empíricos** utilizados na monografia que analisa o impacto da **Reforma Trabalhista brasileira de 2017** sobre a evolução da **informalidade no mercado de trabalho**.
 
 O foco do trabalho é estimar qual teria sido a trajetória da informalidade no Brasil **na ausência da reforma**, comparando-a com o cenário efetivamente observado no período **pós-tratamento**.
 

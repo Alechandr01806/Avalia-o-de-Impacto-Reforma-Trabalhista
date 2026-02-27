@@ -1,23 +1,29 @@
-##Avaliação de Impacto da Reforma Trabalhista Brasileira de 2017##
+#Avaliação de Impacto da Reforma Trabalhista Brasileira de 2017
 
-Este repositório reúne os materiais empíricos e computacionais utilizados na monografia que investiga o impacto da Reforma Trabalhista brasileira de 2017 sobre a trajetória da informalidade no mercado de trabalho.
+Este repositório contém os dados, códigos e resultados utilizados na monografia que analisa o impacto da Reforma Trabalhista brasileira de 2017 sobre a evolução da informalidade no mercado de trabalho.
 
-O objetivo central do trabalho é estimar qual teria sido a evolução contrafactual da informalidade no Brasil na ausência da reforma, comparando-a com a trajetória observada após o período de tratamento.
+O foco do trabalho é estimar qual teria sido a trajetória da informalidade no Brasil na ausência da reforma, comparando-a com o cenário observado no período pós-tratamento.
 
-Metodologia
+**Objetivo**
 
-A análise empírica utiliza a metodologia de Controle Sintético, aplicada em três especificações distintas:
+Avaliar empiricamente se a Reforma Trabalhista de 2017 alterou a trajetória da informalidade no Brasil, utilizando métodos de avaliação de impacto baseados em construção de cenários contrafactuais.
 
-Controle Sintético Clássico
+**Metodologia**
 
-Controle Sintético Aumentado (Augmented Synthetic Control)
+A estratégia empírica baseia-se em modelos de Controle Sintético, explorados em três especificações:
 
-Controle Sintético com regularização Ridge (Ridge-Augmented Synthetic Control)
+Synthetic Control (clássico)
 
-Essas abordagens permitem estimar cenários contrafactuais alternativos para o nível de informalidade brasileira no período pós-reforma.
+Augmented Synthetic Control
 
-Além disso, são conduzidos:
+Ridge-Augmented Synthetic Control
 
-Testes de sensibilidade, para avaliar a estabilidade dos resultados frente a diferentes escolhas de especificação;
+Essas abordagens permitem comparar o Brasil a uma combinação ponderada de países doadores, construindo um contrafactual para o período posterior à reforma.
 
-Procedimentos de inferência, com o objetivo de analisar a significância e a validade estatística dos efeitos estimados.
+**Para validar os resultados, o trabalho inclui:**
+
+Testes de sensibilidade;
+
+Exercícios de inferência e placebo;
+
+Avaliações de robustez a diferentes especificações.

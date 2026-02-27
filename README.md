@@ -1,4 +1,4 @@
-Avaliação de Impacto da Reforma Trabalhista Brasileira de 2017
+##Avaliação de Impacto da Reforma Trabalhista Brasileira de 2017##
 
 Este repositório reúne os materiais empíricos e computacionais utilizados na monografia que investiga o impacto da Reforma Trabalhista brasileira de 2017 sobre a trajetória da informalidade no mercado de trabalho.
 
